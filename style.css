@@ -12,6 +12,7 @@
     background-color: red;
     width: 35%;
     height: 20%;
+    flex:0.5
 }
 
 .element2{
